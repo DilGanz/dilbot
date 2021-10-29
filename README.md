@@ -1,4 +1,4 @@
-## KNTNBOTWA
+## DilGans
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -16,8 +16,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/benisadewa/kntnbotwa
-> cd kntnbotwa
+> git clone https://github.com/DilGans/dilbot
+> cd dilbot
 > npm i -g cwebp && npm i -g ytdl
 > npm i && npm i got
 > bash install.sh
@@ -40,7 +40,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 |       ✅       | ALAY                              |
 |       ✅       | YT,YTMP3,IG,TWT DOWNLOADER        |
 |       ✅       | WIKIPEDIA                         |
-|       ✅       | ARTI NAMA                         |
+|       ✅       | STICKER                           |
 |       ✅       | SHOLAT                            |
 |       ✅       | QURAN                             |
 |       ✅       | KAMING SUN                        |
@@ -54,4 +54,4 @@ ket : ✅ : aktif
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 ## DONASI
-* Gopay : 081271699856 Reuz
+* Gopay : 0895623340308 Dtypo
